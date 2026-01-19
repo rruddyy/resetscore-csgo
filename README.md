@@ -11,7 +11,7 @@ Note: commands starting with `!` are chat commands
 
 
 
-```
+
 ## Installation
 
 To compile this plugin you can use https://spider.limetech.io
